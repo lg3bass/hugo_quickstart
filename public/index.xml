@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bob&#39;s Hugo Quickstart</title>
+    <link>http://www.bobwhitemedia.com/hugo_quickstart/</link>
+    <description>Recent content on Bob&#39;s Hugo Quickstart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Nov 2018 12:07:29 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.bobwhitemedia.com/hugo_quickstart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://www.bobwhitemedia.com/hugo_quickstart/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Nov 2018 12:07:29 -0500</pubDate>
+      
+      <guid>http://www.bobwhitemedia.com/hugo_quickstart/posts/my-first-post/</guid>
+      <description>Basics, Getting started with Netifly and Hugo. Trying to get a hugo workflow in place&amp;hellip; To do:
+[x] Create a sample blog post (this file) [x] Test it out on the [local server](http://localhost:1313/) hugo server -D [x] Test the dev directory hugo server -wD -d dev [!] Test alternative code directory. (../../../../BW_PROJECTS/) NOT WORKING hugo server -wDs ~/Users/lg3/BW_MCP/BW_PUBLISH/quickstart/content -d dev hugo server -wDs ~/BW_MCP/BW_PUBLISH/content/posts -d dev hugo server -wDs ~/.</description>
+    </item>
+    
+  </channel>
+</rss>
