@@ -25,12 +25,17 @@ To do:
 	[x] Test deployment to http://www.bobwhitemedia.com/hugo_quickstart/
 		1. updated the baseURL in config.toml
 		2. updated twitter, youtube, instagram, stuff... just to test
-	[ ] Commit to my [gitHub](https://www.github.com/lg3bass)
-	[ ] Follow the steps to integrate [Netifly.com](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/) to Hugo
-	[ ] Starting search in [google](https://www.google.com/search?q=netlify+hugo&oq=netlify+hugo&aqs=chrome..69i57j69i60j69i64.4743j0j7&sourceid=chrome&ie=UTF-8).
-	[ ] Create Netifly account.
-	[ ] Point to my Github.
-	[ ] Deploy to Netifly for initial test.
+	[x] Commit to my [gitHub](https://github.com/lg3bass/hugo_quickstart)
+	[x] Follow the steps to integrate [Netifly.com](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+	[x] Starting search in [google](https://www.google.com/search?q=netlify+hugo&oq=netlify+hugo&aqs=chrome..69i57j69i60j69i64.4743j0j7&sourceid=chrome&ie=UTF-8).
+	[x] Create Netifly account. ()
+		https://app.netlify.com/sites/relaxed-curie-115fde/settings/domain#custom-domains
+	[x] Point to my Github.
+	[x] Deploy to Netifly for initial test.
+		https://relaxed-curie-115fde.netlify.com/
+	[x] Updated by adding a new post
+	[ ] set domain name (http://www.birdhouseparty.com) as a test
+		login to goDaddy
 	[ ] Try a custom theme
 	[ ] Try locally using the [Nederburg Theme](https://themes.gohugo.io/hugo-nederburg-theme/)
 	[ ] Get a basic site and 1-2 posts working locally.

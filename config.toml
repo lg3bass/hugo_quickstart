@@ -1,4 +1,4 @@
-baseURL = "https://relaxed-curie-115fde.netlify.com/"
+baseURL = "http://www.birdhouseparty.com/"
 languageCode = "en-us"
 title = "Bob's Hugo Quickstart"
 theme = "ananke"
