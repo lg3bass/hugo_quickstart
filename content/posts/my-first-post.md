@@ -34,8 +34,12 @@ To do:
 	[x] Deploy to Netifly for initial test.
 		https://relaxed-curie-115fde.netlify.com/
 	[x] Updated by adding a new post
-	[ ] set domain name (http://www.birdhouseparty.com) as a test
-		login to goDaddy
+	[x] set domain name (http://www.birdhouseparty.com) as a test
+		login to goDaddy (https://mya.godaddy.com/)
+		Go do Domains Management:
+			https://dcc.godaddy.com/manage/BIRDHOUSEPARTY.COM/dns
+		Change the A record to point to "A	@	104.198.14.52	600 seconds"
+	[ ] Setup SSL (https://)
 	[ ] Try a custom theme
 	[ ] Try locally using the [Nederburg Theme](https://themes.gohugo.io/hugo-nederburg-theme/)
 	[ ] Get a basic site and 1-2 posts working locally.
