@@ -29,6 +29,7 @@ To do:
 	[x] Follow the steps to integrate [Netifly.com](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 	[x] Starting search in [google](https://www.google.com/search?q=netlify+hugo&oq=netlify+hugo&aqs=chrome..69i57j69i60j69i64.4743j0j7&sourceid=chrome&ie=UTF-8).
 	[x] Create Netifly account. ()
+		https://app.netlify.com/account/sites
 		https://app.netlify.com/sites/relaxed-curie-115fde/settings/domain#custom-domains
 	[x] Point to my Github.
 	[x] Deploy to Netifly for initial test.
@@ -45,5 +46,11 @@ To do:
 	[ ] Get a basic site and 1-2 posts working locally.
 	[ ] Publish changes to gitHub.
 	
+LINKS
 
+	https://app.netlify.com/account/sites
+	http://www.birdhouseparty.com
+	http://www.bobwhitemedia.com/hugo_quickstart
+	https://relaxed-curie-115fde.netlify.com/
+	
 	
