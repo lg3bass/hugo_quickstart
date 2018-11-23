@@ -1,4 +1,4 @@
-baseURL = "http://www.birdhouseparty.com/"
+baseURL = "https://www.birdhouseparty.com/"
 languageCode = "en-us"
 title = "Bob's Hugo Quickstart"
 theme = "ananke"
