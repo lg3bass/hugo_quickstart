@@ -40,7 +40,8 @@ To do:
 		Go do Domains Management:
 			https://dcc.godaddy.com/manage/BIRDHOUSEPARTY.COM/dns
 		Change the A record to point to "A	@	104.198.14.52	600 seconds"
-	[ ] Setup SSL (https://)
+	[x] Setup SSL (https://)
+		Let's Encrypt did it all for me without the need for a cert
 	[ ] Try a custom theme
 	[ ] Try locally using the [Nederburg Theme](https://themes.gohugo.io/hugo-nederburg-theme/)
 	[ ] Get a basic site and 1-2 posts working locally.
